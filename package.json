@@ -1,0 +1,19 @@
+{
+  "name": "crony",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo --space && ava"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.18.1",
+    "xo": "^0.17.1"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.9.0",
+    "aws-sdk-mock": "^1.6.1"
+  }
+}
